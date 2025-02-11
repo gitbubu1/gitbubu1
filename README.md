@@ -1,7 +1,5 @@
 ### Hi there, I'm Bubu Munda! 👋
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=github_dark" alt="GitHub Stats" />
-
 🚀 **About Me**
 ---
 I'm a **Software Developer** with a strong passion for **front-end development, developer tools, and AI engineering**. I enjoy solving real-world problems through technology and creating impactful web applications.
@@ -30,17 +28,6 @@ I'm a **Software Developer** with a strong passion for **front-end development, 
 - Advanced **JavaScript** & **Performance Optimization**
 - **AI Engineering & Generative AI**
 - **SaaS Development** & Scalable Web Apps
-
-🛠 **Projects & Contributions:**
----
-- 🚀 **[GridView](https://github.com/your-github-username/GridView)** - Multi-screen display system project.
-- 💡 **[ZenCollab](https://github.com/your-github-username/ZenCollab)** - Remote Team Culture Management SaaS.
-- ⛅ **[Weather App](https://github.com/your-github-username/Weather-App)** - A real-time weather app using OpenWeather API.
-
-📊 **GitHub Stats**
----
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" width="50%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" width="50%" />
 
 📫 **Connect with Me**
 ---
