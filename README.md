@@ -32,6 +32,6 @@ I'm a **Software Developer** with a strong passion for **front-end development, 
 📫 **Connect with Me**
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bubumunda/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BubuKumar49365)
 
 🚀 *"Turning ideas into scalable and impactful solutions."*
