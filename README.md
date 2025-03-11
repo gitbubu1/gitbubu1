@@ -2,7 +2,7 @@
 
 🚀 **About Me**
 ---
-I'm a **Software Developer** with a strong passion for **front-end development, developer tools, and AI engineering**. I enjoy solving real-world problems through technology and creating impactful web applications.
+I'm a **Software Developer** with a strong passion for **Front-end development, developer tools, and AI engineering**. I enjoy solving real-world problems through technology and creating impactful web applications.
 
 💡 **Tech Stack & Expertise**
 ---
