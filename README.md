@@ -2,8 +2,11 @@
 
 🌟 About Me:
 I’m a passionate Full-Stack Developer with a growing focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). My journey into web development is driven by a love for building responsive, scalable, and user-friendly applications.
+
 💻 I've developed hands-on experience in building full-stack web apps, from setting up backend APIs with Node.js and Express to creating dynamic frontends using React.js. I'm also familiar with MongoDB for handling databases, and I enjoy working with RESTful APIs and integrating user authentication systems.
+
 🛠️ My GitHub showcases a range of projects, including a personal management system, a Tic Tac Toe game, and other web apps that reflect my journey in mastering HTML, CSS, JavaScript, and now the MERN stack.
+
 🧠 I'm continuously learning — exploring modern web technologies, improving my code architecture, and experimenting with tools like Postman, JWT, and Mongoose.
 🌱 Always curious and eager to grow, I’m excited to contribute to real-world projects, collaborate with fellow developers, and make an impact in the tech world.
 Let’s connect, code, and build something awesome together!
